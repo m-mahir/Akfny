@@ -1,0 +1,81 @@
+.nav-item {
+  .nav-link {
+    display: flex;
+    align-items: center;
+
+    &.active {
+      color: #fff;
+      background: rgba(255, 255, 255, 0.23);
+      opacity: 1;
+    }
+  }
+}
+
+.sidebar .nav a {
+  transition: all 150ms ease-in;
+}
+
+.sidebar-ar .nav a {
+  transition: all 150ms ease-in;
+}
+
+.card-header {
+  text-transform: uppercase;
+}
+
+.badge:empty {
+  display: inline-block;
+}
+
+.MuiDataGrid-root .MuiDataGrid-columnsContainer {
+  color: #fff;
+  background-color: #98276e;
+}
+
+.modal-dialog {
+  max-width: 800px;
+}
+
+.MuiButton-startIcon.MuiButton-iconSizeSmall {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+div[class^="ImageUploadCard-root-"] {
+  background-color: transparent !important;
+}
+
+.alignTextLeft {
+  text-align: left !important;
+}
+
+.alignTextRight {
+  text-align: right !important;
+}
+
+.close {
+  color: #fff;
+}
+
+// .MuiPaper-root.MuiCard-root.MuiPaper-elevation1.MuiPaper-rounded {
+//   border-radius: 80px;
+//   margin: 10px;
+// }
+
+.MuiInputLabel-root,
+.MuiButton-root,
+.MuiTypography-root,
+.MuiTableCell-root,
+.MuiDataGrid-root,
+.MuiInputBase-root {
+  font-family: "Tajawal", sans-serif !important;
+}
+
+.MuiGrid-item > label,
+.MuiInputLabel-formControl {
+  color: #98276e !important;
+}
+
+.breadcrumb {
+  background-color: #98276e1c;
+}

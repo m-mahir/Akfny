@@ -1,0 +1,142 @@
+{
+    "general": {
+        "lang": "AR",
+        "search": "Search…",
+        "close": "Close",
+        "login": "Login",
+        "advancedSearch": "Advanced Search",
+        "buttons": {
+            "save" : "Save",
+            "add" : "Add",
+            "cancel" : "Cancel"
+        },
+        "form": {
+            "required": "This field is required"
+        }
+    },
+    "menu" : {
+        "home": "Home",
+        "manage": "Managment",
+        "contactUs": "Contact Us",
+        "login": "Login",
+        "register": "ٌRegister"
+    },
+    "sigupMenu": {
+        "asATrainer": "...trainer",
+        "asATrainee": "...trainee"
+    },
+    "toolbar":{
+        "rowsCount": "Rows per page",
+        "filter": "Filter",
+        "columns": "Columns",
+        "density": "Density",
+        "export": "Export",
+        "exportCSV": "Download as CSV",
+        "selected": "selected"
+    },
+    "trainer": {
+        "title": "Trainer",
+        "name": "Name",
+        "city": "City",
+        "id": "ID",
+        "idType": "ID Type",
+        "nationality": "Nationality",
+        "country": "الدولة",
+        "gender": "Gender",
+        "status": "Status",
+        "details": "Trainer Details",
+        "personalDetails": "Personal Details",
+        "qualifications": "Qualifications",
+        "list": "List",
+        "invitations": "Invitations",
+        "coursesSearch": "Search by Course...",
+        "register": {
+            "title": "Register Trainer",
+            "mainExperienceField": "Main Experience Field",
+            "mainExperienceYears": "Main Experience Years",
+            "secExperienceField": "Secondary Experience Field",
+            "secExperienceYears": "Secondary Experience Years",
+            "personalInfo": "Personal Information",
+            "qualification": "Qualification",
+            "next": "Next",
+            "previous": "Previous",
+            "id":"ID number",
+            "IdType": "ID Type",
+            "gender": "Gender",
+            "country": "Country",
+            "nationality": "Nationality",
+            "scientificQualification": "Scientific Qualification",
+            "mainSpecialty": "Main Specialty",
+            "secSpecialty": "Secondary Specialty",
+            "gradYear": "Graduation Year",
+            "gradCountry": "Graduation Country",
+            "college": "College",
+            "academicQualification": "Academic Qualification",
+            "academicQualTitle": "Title",
+            "certifcate": "Certificate",
+            "date": "Date",
+            "courses": "Courses",
+            "course": "Course",
+            "sector": "Sector",
+            "field": "Field",
+            "price": "Price",
+            "confirm": "Confirmation",
+            "agree": "I agree to the terms and conditions",
+            "cv": "CV",
+            "validate": {
+                "mail": "Please enter a valid mail"
+            }
+        }
+    },
+    "trainee": {
+        "title": "Trainee",
+        "details": "Trainee Details",
+        "name": "Name",
+        "address": "Address",
+        "gender": "Gender",
+        "mainInterestSearch": "Search by Main Interest...", 
+        "secondaryInterestSearch": "Search by Secondary Interest...",
+        "register": {
+            "title": "Register Trainee",
+            "firstname": "First Name",
+            "middlename": "Middle Name",
+            "lastname": "Last Name",
+            "familyname": "Family Name",
+            "phone": "Phone Number",
+            "mail": "E-mail",
+            "gender": "Gender",
+            "country": "Country",
+            "city": "City"
+        }
+    },
+    "course": {
+        "title": "Course",
+        "details": "Course Details",
+        "add": "Add Course",
+        "name": "Course Name",
+        "field": "Course Field",
+        "sector": "Course Sector",
+        "image": "Image",
+        "duration": "Duration",
+        "hours": "Hours",
+        "days": "Days",
+        "generalObjective": "General Objective",
+        "detailedObjectives": "Detailed Objectives",
+        "themes": "Theme",
+        "mainInterest": "Main Interest", 
+        "secondaryInterest": "Secondary Interest",
+        "suggestions": {
+            "title": "Suggestioins",
+            "status": "ٌRequest Status"
+        }
+    },
+    "suggestion": {
+        "title": "Suggestions",
+        "details": "Suggestion Details",
+        "field": "Field",
+        "sector": "Sector",
+        "courseName": "Course Name",
+        "trainerName": "Trainer Name",
+        "status": "Status"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "general": {
+        "lang": "EN",
+        "search": "بحث...",
+        "close": "اغلاق",
+        "login": "تسجيل الدخول",
+        "advancedSearch": "بحث متقدم",
+        "buttons": {
+            "save" : "حفظ",
+            "add" : "اضافة",
+            "cancel" : "الغاء"
+        },
+        "form": {
+            "required": "هذا الحقل مطلوب"
+        }
+    },
+    "menu" : {
+        "home": "الرئيسية",
+        "manage": "إدارة المنصة",
+        "contactUs": "تواصل معنا",
+        "login": "تسجيل الدخول",
+        "register": "انشاء حساب"
+    },
+    "sigupMenu": {
+        "asATrainer": "مــــــدرب...",
+        "asATrainee": "مــتــدرب..."
+    },
+    "toolbar":{
+        "rowsCount": "اظهر",
+        "filter": "تصفية",
+        "columns": "اعمدة",
+        "density": "كثافة",
+        "export": "تصدير",
+        "exportCSV": "تحميل ك CSV",
+        "selected": "محدد"
+    },
+    "trainer": {
+        "title": "المدرب",
+        "name": "الاسم",
+        "city": "المدينة",
+        "id": "رقم الهوية",
+        "idType": "نوع الهوية",
+        "nationality": "الجنسية",
+        "country": "الدولة",
+        "gender": "النوع",
+        "status": "الحالة",
+        "details": "بيانات المدرب",
+        "personalDetails": "البيانات الشخصية",
+        "qualifications": "المؤهلات",
+        "list": "القائمة",
+        "invitations": "الدعوات",
+        "coursesSearch": "بحث بالدورة ...",
+        "register": {
+            "title": "انشاء حساب مدرب",
+            "mainExperienceField": "مجال الخبرة الرئيسى",
+            "mainExperienceYears": "عدد السنوات",
+            "secExperienceField": "مجال الخبرة الفرعى",
+            "secExperienceYears": "عدد السنوات",
+            "personalInfo": "البيانات الشخصية",
+            "qualification": "المؤهل العلمى",
+            "next": "التالى",
+            "previous": "السابق",
+            "id":"رقم الهوية",
+            "IdType": "نوع الهوية",
+            "gender": "الجنس",
+            "country": "البلد",
+            "nationality": "الجنسية",
+            "scientificQualification": "المؤهل العلمى",
+            "mainSpecialty": "التخصص الرئيسى",
+            "secSpecialty": "التخصص الفرعى",
+            "gradYear": "سنة التخرج",
+            "gradCountry": "بلد التخرج",
+            "college": "الجامعة / الجهة التعليمية",
+            "academicQualification": "التأهيل العلمي و المهني",
+            "academicQualTitle": "عنوان التأهيل العلمي و المهني",
+            "certifcate": "الشهادة",
+            "date": "تاريخها",
+            "courses": "الدورات",
+            "course": "الدورة",
+            "sector": "القطاع",
+            "field": "المجال",
+            "price": "سعر اليوم التدريبي",
+            "confirm": "الاقرار بصحة البيانات",
+            "agree": "اوافق على على الشروط والأحكام",
+            "cv": "السيرة الذاتية",
+            "validate": {
+                "mail": "برجاء ادخال بريد صحيح"
+            }
+    }
+    },
+    "trainee": {
+        "title": "المتدرب",
+        "details": "بيانات المتدرب",
+        "name": "الاسم",
+        "address": "العنوان",
+        "gender": "النوع",
+        "mainInterestSearch": "بحث بالاهتمام الرئيسى ...", 
+        "secondaryInterestSearch": "بحث بالاهتمام الفرعى ...",
+        "register": {
+            "title": "انشاء حساب متدرب",
+            "firstname": "الاسم الاول",
+            "middlename": "اسم الاب",
+            "lastname": "اسم الجد",
+            "familyname": "اسم العائلة",
+            "phone": "رقم الجوال",
+            "mail": "البريد الالكترونى",
+            "gender": "الجنس",
+            "country": "البلد",
+            "city": "المدينة"
+        }
+    },
+    "course": {
+        "title": "الدورة",
+        "details": "تفاصيل الدورة",
+        "add": "اضافة دورة",
+        "name": "اسم الدورة",
+        "field": "مجال  الدورة",
+        "sector": "قطاع الدورة",
+        "image": "الصورة",
+        "duration": "المدة",
+        "hours": "ساعة",
+        "days": "يوم",
+        "generalObjective": "الهدف العام",
+        "detailedObjectives": "الاهداف التفصيلية",
+        "themes": "محاور الدورة",
+        "mainInterest": "الاهتمام الرئيسى", 
+        "secondaryInterest": "الاهتمام الفرعى",
+        "suggestions": {
+            "title": "المقترحات",
+            "status": "حالة الطلب"
+        }
+    },
+    "suggestion": {
+        "title": "المقترحات",
+        "details": "تفاصيل المقترح",
+        "field": "المجال",
+        "sector": "القطاع",
+        "courseName": "اسم الدورة",
+        "trainerName": "اسم المدرب",
+        "status": "الحالة"
+    }
+}
